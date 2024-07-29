@@ -1,0 +1,30 @@
+{
+  "name": "erc20permit",
+  "version": "1.0.0",
+  "description": "ERC20 permit Contract Functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ERC20Permit",
+    "ERC20",
+    "Token",
+    "Standard",
+    "Extension",
+    "Smart",
+    "Contract",
+    "Solidity"
+  ],
+  "author": "Pushkar Nikumb",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2"
+  }
+}
