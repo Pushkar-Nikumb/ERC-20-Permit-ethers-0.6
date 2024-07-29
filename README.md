@@ -16,7 +16,7 @@ This project demonstrates the usage of the ERC20 Permit contract with Hardhat an
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/ERC20PermitContract.git
+   git clone https://github.com/Pushkar-Nikumb/ERC-20-Permit-ethers-0.6
    cd ERC20PermitContract
    ```
 
